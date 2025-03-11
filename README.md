@@ -11,7 +11,7 @@ This is a simple weather service built with NestJS that fetches weather data fro
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/weather-nestjs.git
+    git clone https://github.com/Vyacheslav-Moskalenko/weather-nestjs.git
     cd weather-nestjs
     ```
 
